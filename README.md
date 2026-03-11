@@ -4,7 +4,7 @@
 
 This is a professional end-to-end Machine Learning project that forecasts weekly Amazon sales. It tackles the challenge of **intermittent demand** (sporadic, massive sales spikes) using a hybrid AI architecture.
 
-**📊 Live Dashboard:** https://amazonsalestrendanalysisai-urmatsgvbpmnhdsq6j6yfi.streamlit.app/
+**📊 Live Dashboard:** https://amazonsalestrendanalysisai-vjeazxeifggbh5ywfm7pkf.streamlit.app/
 
 
 ---
